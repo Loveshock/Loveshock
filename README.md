@@ -1,4 +1,4 @@
-the lost time system's personal github page. we don't program we just write html 
+the digital star system's personal github page. we don't program we just write html 
 
 <!--
 **Loveshock/Loveshock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
